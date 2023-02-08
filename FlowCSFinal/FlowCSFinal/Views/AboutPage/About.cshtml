@@ -1,0 +1,80 @@
+﻿@model string
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+<main style="  background: linear-gradient(-45deg, #e73c7e, #23a6d5, #23d5ab, #ee7752);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;">
+    <div class="ob">
+        <section class="home-intro-abt">
+            <img src="img/logo.png" alt="Logo.png">
+            <h1>A continuous stream of entertainment</h1>
+        </section>
+    </div>
+    <div style="background-color:whitesmoke; height: 3%; opacity: 70%;"></div>
+    <div class="about" style=" letter-spacing: 1px; line-height: 2;">
+        <div class="home-about-abt">
+            <h2>About us</h2>
+            <div class="columns">
+                <p>
+                    The people working behind the scenes trying to make something you might enjoy. Learn a bit about their personalities, roles, and the vital importance they all have to the company.
+                </p>
+            </div>
+        </div>
+
+        <div class="img-columns">
+            <div id="blackdiv" style="text-align: center; max-width: 300px; letter-spacing: 1px; line-height: 2; margin-bottom: 5%;">
+                <img src="img/Olti.jpg" alt="" style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5%;">
+                <h2 style="margin-top: 5%;">Oltion Gashi</h2>
+                <h5>Founder / CEO / Lead Designer</h5>
+                <hr id="blackhr">
+                Olti started following his career as a programmer at a young age. He has been working on a personal project for
+                about 2 years now and he is excited to see the community reaction. He is the founder of the company and an essential
+                part of it, inspiring everyone around him to do their best, and reminding them to have fun!
+            </div>
+            <div id="whitediv" style="text-align: center; max-width: 300px;  letter-spacing: 1px; line-height: 2; margin-bottom: 5%;">
+                <img src="img/lorik.jpeg" alt="" style="width: 250px; height: 250px; border-radius: 100%; margin-top: 5%;">
+                <h2 style="margin-top: 5%;">Lorik Popaj</h2>
+                <h5>CEO / Assistand Designer</h5>
+                <hr id="whitehr">
+                Lorik has been Olti's parter throughout his entire life. He started getting into programming about 2 years ago,
+                and decided to also pursue his career with his friend. Although he may have only started recently, his determination
+                and quick learning has helped the company plenty, and are looked up to by the entire staff.
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="footer">
+        <div class="home-about-foot">
+            <div class="columns" style="flex-direction: column;">
+                <div style="margin: 2%;display: flex; flex-direction: row; justify-content: space-evenly;">
+                    <a href="main.html" class="logo" aria-label="homepage">flow.</a>
+                    <ul class="nav_list" style="margin-top: -5px;">
+                        <li class="nav_list-item"><a href="main.html" class="nav_link">Home</a></li>
+                        <li class="nav_list-item"><a href="about.html" class="nav_link">About</a></li>
+                        <li class="nav_list-item"><a href="gallery.html" class="nav_link">Gallery</a></li>
+                        <li class="nav_list-item"><a href="community.html" class="nav_link">Community</a></li>
+                        <li class="nav_list-item"><a href="contacts.html" class="nav_link">Contacts</a></li>
+                    </ul>
+                    <a target="_blank" href="https://www.facebook.com/Flow-Entertainment-100628881531882/?modal=admin_todo_tour%22%3E"><img class="ftimg" src="img/facebook.png" height="30" width="30" alt="Facebook.png"></a>
+                    <a target="_blank" href="https://www.instagram.com/flow.entertainment.games/%22%3E"><img class="ftimg" src="img/instagram.png" height="30" width="30" alt="Instagram.png"></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCk1H9Uwr8k82EouBomBjosA?view_as=subscriber%22%3E"><img src="img/youtube.png" height="30" width="30" alt="Youtube.png"></a>
+                </div>
+                <hr>
+                <div style="margin: 2%;display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+                    <div style="font-size: 11px;">
+                        <h2>Our Company</h2>
+                        <p>Flow Entertainment aims to create entertainment for you, from you, and with you.</p>
+                    </div>
+                    <hr style="height: 50px; margin: 2%;">
+                    <div style="font-size: 10px; opacity: 80%;">© 2021 Flow Entertainment, Inc, All Rights Reserved.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+@Model

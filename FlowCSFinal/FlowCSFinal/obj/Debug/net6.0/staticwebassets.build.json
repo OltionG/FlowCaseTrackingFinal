@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G2AFllXG2l0BxtQqp3Bs/smGD9JBVey1E9t9RzHgrlM=",
+  "Hash": "X/LTMHyA5n9VcDtiXvYo5V9hhpe8Z3Ig1I4fMIXc7Ws=",
   "Source": "FlowCSFinal",
   "BasePath": "_content/FlowCSFinal",
   "Mode": "Default",
@@ -1511,6 +1511,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\youtube.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\FlowCaseTrackingFinal\\FlowCSFinal\\FlowCSFinal\\wwwroot\\css\\main.css",
+      "SourceId": "FlowCSFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\FlowCaseTrackingFinal\\FlowCSFinal\\FlowCSFinal\\wwwroot\\",
+      "BasePath": "_content/FlowCSFinal",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
       "Identity": "C:\\Users\\Dell\\Desktop\\FlowCaseTrackingFinal\\FlowCSFinal\\FlowCSFinal\\wwwroot\\css\\site.css",
