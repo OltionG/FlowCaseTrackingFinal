@@ -1,0 +1,360 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlowCSFinal
+build_property.RootNamespace = FlowCSFinal
+build_property.ProjectDir = C:\Users\Dell\Desktop\FlowCaseTrackingFinal\FlowCSFinal\FlowCSFinal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Dell\Desktop\FlowCaseTrackingFinal\FlowCSFinal\FlowCSFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Abouts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Abouts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Abouts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Abouts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Abouts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/About/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/About/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/About/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/About/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Board/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Board/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Board/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Board/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Board/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Collections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Collections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Collections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Collections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Collections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/List/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/List/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/List/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/List/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/List/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirect/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirect/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirect/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirect/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Redirect/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVkaXJlY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Templates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGxhdGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Templates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGxhdGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Templates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGxhdGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Templates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGxhdGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Templates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGxhdGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Workspace/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NwYWNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Workspace/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NwYWNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Workspace/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NwYWNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Workspace/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NwYWNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Workspace/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3NwYWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/Desktop/FlowCaseTrackingFinal/FlowCSFinal/FlowCSFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zo2sc9g6bz

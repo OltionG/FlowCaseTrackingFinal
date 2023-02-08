@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FlowCSFinal</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/FlowCSFinal.styles.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,900&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <!--Pjesa e Logos-->
+        <a href="main.html" class="logo" aria-label="homepage">flow.</a>
+        <!--Pjesa e Nav-Bar-->
+        <nav class="main_nav" style="background">
+            <ul class="nav_list">
+                <li class="nav_list-item"><a href="main.html" class="nav_link">Home</a></li>
+                <li class="nav_list-item"><a href="about.html" class="nav_link">About</a></li>
+                <li class="nav_list-item"><a href="gallery.html" class="nav_link">Gallery</a></li>
+                <li class="nav_list-item"><a href="community.html" class="nav_link">Community</a></li>
+                <li class="nav_list-item"><a href="contacts.html" class="nav_link">Contacts</a></li>
+            </ul>
+        </nav>
+        <!--Pjesa e Login/Register(Join)-->
+        <nav>
+            <ul class="nav_list">
+                <li class="nav_list-item"><a href="login/index.html" class="nav_link nav_link--btn">Login</a></li>
+                <li class="nav_list-item"><a href="login/create.html" class="nav_link nav_link--btn nav_link--btn--highlight">Join</a></li>
+            </ul>
+        </nav>
+    </header>
+    </header>
+    <div>
+        <main role="main" >
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
